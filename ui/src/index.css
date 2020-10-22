@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  color: black;
+  font-family: Montserrat-Medium;
+}
+
+#root {
+  height: 100%;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+.card-checkbox span span {
+  border: 1px solid white !important;
+}
+
+.ant-descriptions-item > span {
+  display: flex;
+}
